@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data manipulation Tool
 
 Project producing a data manipulation service integrated to a PostgreSQL relational database.
@@ -45,6 +44,3 @@ In the run_app.py file you need to add eight arguments to the function:
   - arg8 -> Columns name of the CNPJ table.
 
 To consult the table in database, uncomment the lines in `run_app.py` file.
-=======
-# IN PROGESS...
->>>>>>> c9f80cb7910b9a308c0caadc763266323645261f
